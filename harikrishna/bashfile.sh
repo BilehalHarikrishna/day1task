@@ -51,4 +51,5 @@ if [ $t == 1 ]
 then
 echo $i
 fi
-done 
+done
+echo "Thank you"
