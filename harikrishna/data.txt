@@ -1,0 +1,5 @@
+Name Id Age Gender Salary
+HAri 12 22  MAle   12333
+sai  13 22  Male   12344
+siri 14 21  Female 12344
+abhi 15 22  Male   23333
